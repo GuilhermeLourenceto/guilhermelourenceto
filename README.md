@@ -2,9 +2,9 @@
 
 **`Estudante de Engenharia de Computação`**
 
-Olá! Me chamo Guilherme Lourenceto Soares da Silva, tenho 19 anos e sou de Mato Grosso do Sul. Atualmente, estou no 3º semestre de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul (UFMS), onde ingressei em março de 2025.
+Olá! Me chamo Guilherme Lourenceto Soares da Silva, sou de Mato Grosso do Sul e curso Engenharia de Computação na Universidade Federal de Mato Grosso do Sul (UFMS), onde ingressei em 2025/1.
 
-No momento, tenho focado principalmente na linguagem C por conta das disciplinas da graduação, mas também possuo experiência com Python e Java, incluindo conhecimentos em Programação Orientada a Objetos (POO).
+Atualmente, desenvolvo atividades de iniciação científica (IC) na UFMS, com foco em visão computacional. Possuo experiência com C, Python e Java, incluindo conhecimentos em Programação Orientada a Objetos (POO) e PyTorch.
 
 <p align="left">
     <a href="https://github.com/GuilhermeLourenceto?tab=followers">
@@ -19,6 +19,7 @@ No momento, tenho focado principalmente na linguagem C por conta das disciplinas
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 
 <br/>
 <br/>
