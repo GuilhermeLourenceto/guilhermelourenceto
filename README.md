@@ -25,3 +25,16 @@ Atualmente, desenvolvo atividades de iniciação científica (IC) na UFMS, com f
 
 <br/>
 <br/>
+
+---
+
+### 📈 Histórico de commits
+
+<div align="center">
+  <a href="https://commit-history.com/GuilhermeLourenceto">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/GuilhermeLourenceto?theme=dark" />
+      <img alt="Histórico acumulado de commits" src="https://commit-history.com/embed/GuilhermeLourenceto" />
+    </picture>
+  </a>
+</div>
